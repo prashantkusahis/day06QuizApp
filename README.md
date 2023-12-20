@@ -1,4 +1,4 @@
-dddd# day06QuizApp
+ddddd# day06QuizApp
 Quiz App!
 <br>
 🧠 Welcome to the Quiz App, a dynamic web application designed to challenge and expand your knowledge across various fields! 🚀
